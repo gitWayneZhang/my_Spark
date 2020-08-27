@@ -10,7 +10,7 @@ Create a new conda environment and activate it to use this notebook, as follows:
 
 - Start a `Python Command Prompt` from `Start > ArcGIS`.
 
-- Execute the following:
+- Create Conda environment and clone arcgispro environment:
 
 ```
 conda create --yes --name spark_esri --clone arcgispro-py3
