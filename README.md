@@ -17,6 +17,6 @@ conda create --yes --name spark_esri --clone arcgispro-py3
 activate spark_esri
 pip install pyarrow
 ```
-[Spatial Binning](spark_esri.ipynb) Notebook
+[Spatial Binning](sparkesri_MiamiAIS.ipynb) Notebook
 
 ![](media/Pro1.png)
