@@ -1,6 +1,6 @@
 # Jupyer Notebook using ESRI built-in [Spark](https://spark.apache.org/).
 
-This notebook is borrowed from Mansour's github [ESRI Spark notebook](https://github.com/mraad/spark-esri)  to demonstrate the spatial binning of AIS data around the port of Miami using Apache Spark. Mansour's notebook create the spatila bining inside ArcGIS Pro. What I tried is to use notebook outside ArcGIS Pro.  
+This notebook is borrowed from Mansour's github [ESRI Spark notebook](https://github.com/mraad/spark-esri)  to demonstrate the spatial binning of AIS data around the port of Miami using Apache Spark. Mansour's notebook creates the spatila bining inside ArcGIS Pro. What I tried is to use notebook outside ArcGIS Pro.  
 
 The AIS broadcast data is in a FileGeodatabase that can be download from [here](https://marinecadastre.gov/ais). 
 
